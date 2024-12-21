@@ -143,7 +143,7 @@ var searchControl = new L.Control.Search({
     propertyName: 'salle',
     initial: true,
     collapsed: false,
-    position: 'topright',
+    position: 'topleft',
     zoom: 21,
     marker: false,
     autocomplete: true,

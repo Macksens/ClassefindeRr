@@ -18,7 +18,7 @@
         box-sizing: border-box; /* Inclure padding et bordures dans la largeur totale */
         width: calc(100vw - 20px); /* Prendre toute la largeur de l'écran */
         z-index: 1010; /* Barre de recherche au premier plan */
-        bottom: 75px;
+        bottom: 0;
         box-shadow: 0 2px 4px rgba(0, 0, 0, 0); /* Ombre portée */
     }
                                                                                                                                                   
